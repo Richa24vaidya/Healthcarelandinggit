@@ -3687,8 +3687,8 @@ fieldset:disabled .btn {
   --ar-nav-link-padding-x: 1.75rem;
   --ar-nav-link-padding-y: 0.725rem;
   --ar-nav-link-font-weight: 500;
-  --ar-nav-link-color: var(--ar-gray-800);
-  --ar-nav-link-hover-color: var(--ar-primary);
+  --ar-nav-link-color: var( --ar-gray-900);
+  --ar-nav-link-hover-color: var( --ar-primary);
   --ar-nav-link-disabled-color: var(--ar-gray-600);
   display: flex;
   flex-wrap: wrap;
